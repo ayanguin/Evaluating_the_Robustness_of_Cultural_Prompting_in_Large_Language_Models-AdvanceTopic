@@ -1,0 +1,16 @@
+country,cultural_zone,n,SACSECVAL,RESEMAVAL
+EGY,African-Islamic,1200,0.1741,0.2366
+NGA,African-Islamic,1237,0.2577,0.2875
+CHN,Confucian,3036,0.4013,0.3918
+JPN,Confucian,1353,0.4391,0.5563
+KOR,Confucian,1245,0.5639,0.4535
+GBR,English-speaking,2609,0.4259,0.6499
+USA,English-speaking,2596,0.3806,0.5605
+ARG,Latin America,1003,0.4207,0.4671
+MEX,Latin America,1741,0.4284,0.4382
+RUS,Orthodox Europe,1810,0.4464,0.3983
+UKR,Orthodox Europe,1289,0.47,0.3996
+DEU,Protestant Europe,1528,0.382,0.6759
+NLD,Protestant Europe,2145,0.4559,0.6601
+IDN,South Asia / Islamic,3200,0.2581,0.3288
+IND,South Asian,1692,0.264,0.3748

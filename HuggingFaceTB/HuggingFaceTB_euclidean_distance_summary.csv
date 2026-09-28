@@ -1,0 +1,17 @@
+Country,d_default,d_cultural,Reduction (d_def - d_cul),Outcome in Joint Space
+UKR,0.1256,0.0369,+0.0887,Improved
+NLD,0.2037,0.1516,+0.0521,Improved
+JPN,0.1267,0.0804,+0.0463,Improved
+DEU,0.2233,0.2007,+0.0227,Improved
+IDN,0.1896,0.1807,+0.0089,Improved
+IND,0.1791,0.1915,-0.0124,Worsened
+NGA,0.2396,0.2545,-0.0150,Worsened
+CHN,0.1131,0.1294,-0.0163,Worsened
+GBR,0.2076,0.2321,-0.0246,Worsened
+KOR,0.1234,0.1480,-0.0246,Worsened
+MEX,0.0170,0.0443,-0.0273,Worsened
+USA,0.1113,0.1417,-0.0304,Worsened
+RUS,0.0476,0.0820,-0.0344,Worsened
+ARG,0.0493,0.1016,-0.0523,Worsened
+EGY,0.3213,0.3912,-0.0699,Worsened
+Mean,0.1519,0.1578,-0.0059,"5 Improved, 10 Worsened"
